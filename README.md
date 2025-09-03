@@ -38,7 +38,7 @@ Both implementations achieve similar accuracy.
 ### 🔹 Confusion Matrices
 | Custom KNN | Scikit-learn KNN |
 |------------|------------------|
-| ![Custom KNN](./images/custom_knn.png) | ![Sklearn KNN](./images/sklearn_knn.png) |
+| ![Custom KNN](./myknn.png) | ![Sklearn KNN](./sklknn.png) |
 
 *(Add screenshots of your confusion matrices in an `images/` folder and update paths.)*
 
